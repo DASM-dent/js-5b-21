@@ -1,4 +1,4 @@
-
+**Diana Amarfeline Santana Martinez 21 5b**
 # Lab #3 Enlazando mi proyecto con GitHub:
 **.md Mark Down**
 
@@ -9,7 +9,7 @@
 *[x] confirmar los cambios con el comando **git commit -am "Primer commit remoto"**.
 *[x] agregar mi repositorio remoto a mi repositorio local usando el comando **git remote add origin url_remote**.
 *[x] subir mis cambios al remoto usando **git push -u origin master**.
-*[] comprobar que mi remoto tenga los ultimos cambios agregados.
+*[x] comprobar que mi remoto tenga los ultimos cambios agregados.
 
 
 
