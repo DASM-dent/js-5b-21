@@ -28,5 +28,25 @@
 * [ x ] hacemos **git push**
 
 
+### Lab 8.5 Trabajamos en funciones para los tasks o tareas.
+* [x] Empezamos a trabajar con **Tasks.js**
+* [x] Creamos Funciones para trabajar los tasks:
+        *createTask
+        *updateTask
+        *eraseTask
+* [x] Exportamos nuestras funciones.
+* [x] Hacemos **git add .**
+* [x] Hacemos **git commit -am "Configura argvs con opciones para los comandos"**
+* [x] Hacemos **git push**
 
 
+### Lab 8.6 Trabajamos con la configuracion de Yargs
+* [ ] Empezamos a trabajar con el fichero **argvs.js**
+  * [ ] Agregando los comandos que usara Yargs
+  * [ ] Exporto el objecto ```argv``` para nuestro proyecto.
+* [ ] Empezamos a trabajar con ```index.js```
+  * [ ] Importamos y exportamos nuestras herramientas.
+* [ ] Hacemos **git add .**
+* [ ] Hacemos **git commit -am "Exportar tools components"**
+* [ ] Hacemos **git push** 
+ 
