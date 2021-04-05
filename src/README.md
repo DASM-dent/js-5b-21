@@ -12,20 +12,20 @@
 *[x] comprobar que mi remoto tenga los ultimos cambios agregados.
 
 ### Lab 8.4 Trabajando con opciones Yargs.
-* [  ] Empezamos a trabajar con **options.js**
-   * [  ] Creamos los objetos para nuestros comandos:
+* [ x ] Empezamos a trabajar con **options.js**
+   * [ x ] Creamos los objetos para nuestros comandos:
         * descripcion
         * title
         * completed
         * erased
-* [  ] Creamos las opciones para nuestros comandos:
+* [ x ] Creamos las opciones para nuestros comandos:
         * opcionsCreate
         * opcionsUpdate
         * opcionsErase
-* [  ] Exportamos nuestras opciones
-* [  ] hacemos **git add .**
-* [  ] hacemos **git commit -am "Configura argvs con opciones para los comandos"**
-* [  ] hacemos **git push**
+* [ x ] Exportamos nuestras opciones
+* [ x ] hacemos **git add .**
+* [ x ] hacemos **git commit -am "Configura argvs con opciones para los comandos"**
+* [ x ] hacemos **git push**
 
 
 
