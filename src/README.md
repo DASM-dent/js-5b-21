@@ -41,12 +41,20 @@
 
 
 ### Lab 8.6 Trabajamos con la configuracion de Yargs
-* [ ] Empezamos a trabajar con el fichero **argvs.js**
-  * [ ] Agregando los comandos que usara Yargs
-  * [ ] Exporto el objecto ```argv``` para nuestro proyecto.
-* [ ] Empezamos a trabajar con ```index.js```
-  * [ ] Importamos y exportamos nuestras herramientas.
-* [ ] Hacemos **git add .**
-* [ ] Hacemos **git commit -am "Exportar tools components"**
-* [ ] Hacemos **git push** 
+* [x] Empezamos a trabajar con el fichero **argvs.js**
+  * [x] Agregando los comandos que usara Yargs
+  * [x] Exporto el objecto ```argv``` para nuestro proyecto.
+* [x] Empezamos a trabajar con ```index.js```
+  * [x] Importamos y exportamos nuestras herramientas.
+* [x] Hacemos **git add .**
+* [x] Hacemos **git commit -am "Exportar tools components"**
+* [x] Hacemos **git push** 
  
+### Lab 8.7 Trabajamos con nuestra aplicacion principal 
+* [ ] Empezamos a trabajar con el fichero **app.js**
+* [ ] Importamos las herramientas ```tasks argv``` y el paquete ```colors```
+  * [ ] Usamos estructura ```switch```
+    * [ ] Filtramos los comandos ```create update delete```
+* [ ] Hacemos **git add .**
+* [ ] Hacemos **git commit -am "Finaliza proyecto-pruebas de funcionamiento"**
+* [ ] Hacemos **git push**
